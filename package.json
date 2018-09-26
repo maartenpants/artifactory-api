@@ -1,20 +1,26 @@
 {
   "name": "artifactory-api",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A module for interacting with Artifactory API",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cgadam/artifactory-api.git"
+    "url": "https://github.com/maartenpants/artifactory-api.git"
   },
   "author": {
     "name": "Christian Adam",
     "email": "christian.g.adam@gmail.com"
   },
-  "contributors": [{
-    "name": "William Beard",
-    "email": "disenno@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Maarten Haubrich",
+      "email": "mail4mh@gmail.com"
+    },
+    {
+      "name": "William Beard",
+      "email": "disenno@gmail.com"
+    }
+  ],
   "license": "MIT",
   "keywords": [
     "Artifactory",
@@ -32,7 +38,7 @@
     "md5-file": "2.0.3"
   },
   "bugs": {
-    "url": "https://github.com/cgadam/artifactory-api/issues"
+    "url": "https://github.com/maartenpants/artifactory-api/issues"
   },
-  "homepage": "https://github.com/cgadam/artifactory-api"
+  "homepage": "https://github.com/maartenpants/artifactory-api"
 }
